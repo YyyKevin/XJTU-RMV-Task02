@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/yu/Documents/RM_vision/XJTU-RMV-Task02/opencv_project/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/OpenCV_Project.dir/src/main.cpp.o -c /home/yu/Documents/RM_vision/XJTU-RMV-Task02/opencv_project/src/main.cpp",
+  "file": "/home/yu/Documents/RM_vision/XJTU-RMV-Task02/opencv_project/src/main.cpp",
+  "output": "CMakeFiles/OpenCV_Project.dir/src/main.cpp.o"
+}
+]
